@@ -1,4 +1,4 @@
 server:
   port: 8081
 
-mensaje:"Hola Microservicio usuario"
+mensaje: "Hola Microservicio usuario"
